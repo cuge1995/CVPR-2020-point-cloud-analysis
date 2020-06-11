@@ -33,3 +33,11 @@ CVPR 2020 papers focusing on point cloud analysis
   
 - [Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion](https://arxiv.org/abs/2003.01456)
 
+- [Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences](http://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Feature-Metric_Registration_A_Fast_Semi-Supervised_Approach_for_Robust_Point_Cloud_CVPR_2020_paper.pdf)
+  - [[Code](https://github.com/XiaoshuiHuang/fmr)]
+  
+- [From Image Collections to Point Clouds with Self-supervised Shape and Pose Networks](http://openaccess.thecvf.com/content_CVPR_2020/papers/Navaneet_From_Image_Collections_to_Point_Clouds_With_Self-Supervised_Shape_and_CVPR_2020_paper.pdf)
+  - [[Code](https://github.com/klnavaneet/ssl_3d_recon)]
+
+- [Associate-3Ddet: Perceptual-to-Conceptual association for 3D Point Cloud Object Detection](http://openaccess.thecvf.com/content_CVPR_2020/papers/Du_Associate-3Ddet_Perceptual-to-Conceptual_Association_for_3D_Point_Cloud_Object_Detection_CVPR_2020_paper.pdf)
+  - [[Code](https://github.com/dleam/Associate-3Ddet)]
