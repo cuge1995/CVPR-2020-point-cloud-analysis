@@ -41,3 +41,6 @@ CVPR 2020 papers focusing on point cloud analysis
 
 - [Associate-3Ddet: Perceptual-to-Conceptual association for 3D Point Cloud Object Detection](http://openaccess.thecvf.com/content_CVPR_2020/papers/Du_Associate-3Ddet_Perceptual-to-Conceptual_Association_for_3D_Point_Cloud_Object_Detection_CVPR_2020_paper.pdf)
   - [[Code](https://github.com/dleam/Associate-3Ddet)]
+ 
+- [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://arxiv.org/pdf/2003.01251.pdf)
+  - [[Code](https://github.com/WeijingShi/Point-GNN)]
