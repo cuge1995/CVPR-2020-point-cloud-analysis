@@ -44,3 +44,7 @@ CVPR 2020 papers focusing on point cloud analysis
  
 - [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://arxiv.org/pdf/2003.01251.pdf)
   - [[Code](https://github.com/WeijingShi/Point-GNN)]
+
+- [PointGMM: a Neural GMM Network for Point Clouds](https://arxiv.org/pdf/2003.13326.pdf)
+  - [[Code](https://github.com/amirhertz/pointgmm)]
+
