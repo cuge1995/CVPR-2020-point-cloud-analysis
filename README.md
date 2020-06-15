@@ -49,3 +49,5 @@ CVPR 2020 papers focusing on point cloud analysis
   - [[Code](https://github.com/amirhertz/pointgmm)]
 
 - [3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation](https://arxiv.org/pdf/2003.13867.pdf)
+ - [[Code](https://github.com/francisengelmann/3D-MPA)]
+
