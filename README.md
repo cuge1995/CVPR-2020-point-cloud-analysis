@@ -48,3 +48,4 @@ CVPR 2020 papers focusing on point cloud analysis
 - [PointGMM: a Neural GMM Network for Point Clouds](https://arxiv.org/pdf/2003.13326.pdf)
   - [[Code](https://github.com/amirhertz/pointgmm)]
 
+- [3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation](https://arxiv.org/pdf/2003.13867.pdf)
