@@ -25,6 +25,9 @@ CVPR 2020 papers focusing on point cloud analysis
   
 - [In Perfect Shape: Certifiably Optimal 3D Shape Reconstruction from 2D Landmarks](https://arxiv.org/pdf/1911.11924.pdf)
 
+- [Unsupervised Learning of Intrinsic Structural Representation Points](https://arxiv.org/pdf/2003.01661.pdf)
+  - [[Code](https://github.com/NolenChen/3DStructurePoints)]
+
 - [RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds](https://arxiv.org/abs/1911.11236)
   
 - [C-Flow: Conditional Generative Flow Models for Images and 3D Point Clouds](https://arxiv.org/abs/1912.07009)
