@@ -28,6 +28,9 @@ CVPR 2020 papers focusing on point cloud analysis
 - [Unsupervised Learning of Intrinsic Structural Representation Points](https://arxiv.org/pdf/2003.01661.pdf)
   - [[Code](https://github.com/NolenChen/3DStructurePoints)]
 
+- [LiDAR-based Online 3D Video Object Detection with Graph-based Message Passing and Spatiotemporal Transformer Attention](https://arxiv.org/pdf/2004.01389.pdf)
+  - [[Code](https://github.com/yinjunbo/3DVID)]
+
 - [RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds](https://arxiv.org/abs/1911.11236)
   
 - [C-Flow: Conditional Generative Flow Models for Images and 3D Point Clouds](https://arxiv.org/abs/1912.07009)
