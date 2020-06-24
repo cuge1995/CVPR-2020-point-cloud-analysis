@@ -22,6 +22,9 @@ CVPR 2020 papers focusing on point cloud analysis
 - [End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection](https://arxiv.org/abs/2004.03080)
   - [[Code](https://github.com/mileyan/pseudo-LiDAR_e2e/tree/master/PIXOR)]
 
+- [Going Deeper with Point Networks](http://geometry.cs.ucl.ac.uk/projects/2020/deepleanpn/paper_docs/GoingDeeperWithPointNetworksLeKokkinosMitra.pdf) ` segmentation '
+  - [[Code](https://github.com/erictuanle/GoingDeeperwPointNetworks)]
+
 - [Learning multiview 3D point cloud registration](https://arxiv.org/abs/2001.05119)
 
 - [Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image](https://arxiv.org/abs/2002.12212)
