@@ -66,3 +66,5 @@ CVPR 2020 papers focusing on point cloud analysis
 - [3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation](https://arxiv.org/pdf/2003.13867.pdf)
   - [[Code](https://github.com/francisengelmann/3D-MPA)]
 
+- [PointPainting: Sequential Fusion for 3D Object Detection](https://arxiv.org/abs/1911.10150)  ` detection `
+  - [[Code](https://github.com/rshilliday/painting)]
