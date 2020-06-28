@@ -43,6 +43,9 @@ CVPR 2020 papers focusing on point cloud analysis
   
 - [C-Flow: Conditional Generative Flow Models for Images and 3D Point Clouds](https://arxiv.org/abs/1912.07009)
 
+- [High-dimensional Convolutional Networks for Geometric Pattern Recognition.](https://arxiv.org/abs/2005.08144)  ` registrition ` ` oral `
+  - [[Code](https://github.com/chrischoy/HighDimConvNets)]
+
 - [Representations, Metrics and Statistics For Shape Analysis of Elastic Graphs](https://arxiv.org/abs/2003.00287)
 
 - [PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation](https://arxiv.org/pdf/2004.01658.pdf)
