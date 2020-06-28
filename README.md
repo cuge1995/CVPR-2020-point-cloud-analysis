@@ -16,6 +16,8 @@ CVPR 2020 papers focusing on point cloud analysis
 - [PointAugment: an Auto-Augmentation Framework for Point Cloud Classification](https://arxiv.org/abs/2002.10876)
   - [[Code](https://github.com/liruihui/PointAugment/)]
 
+- [OctSqueeze: Octree-Structured Entropy Model for LiDAR Compression.](https://arxiv.org/abs/2005.07178)  ` compression ` ` oral `
+
 - [PF-Net: Point Fractal Network for 3D Point Cloud Completion](https://arxiv.org/abs/2003.00410)
   - [[Code](https://github.com/xiaogangw/cascaded-point-completion)]
 
