@@ -32,7 +32,7 @@ CVPR 2020 papers focusing on point cloud analysis
 
 - [Learning multiview 3D point cloud registration](https://arxiv.org/abs/2001.05119)
 
-- [Geometry and Learning Co-supported Normal Estimation for UnstructuredPoint Cloud.](https://arxiv.org/abs/2005.07178)  ` normal estimation ` 
+- [Geometry and Learning Co-supported Normal Estimation for UnstructuredPoint Cloud.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Geometry_and_Learning_Co-Supported_Normal_Estimation_for_Unstructured_Point_Cloud_CVPR_2020_paper.pdf)  ` normal estimation ` 
 
 - [Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image](https://arxiv.org/abs/2002.12212)
   
