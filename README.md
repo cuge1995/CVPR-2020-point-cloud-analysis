@@ -16,6 +16,9 @@ CVPR 2020 papers focusing on point cloud analysis
 - [PointAugment: an Auto-Augmentation Framework for Point Cloud Classification](https://arxiv.org/abs/2002.10876)
   - [[Code](https://github.com/liruihui/PointAugment/)]
 
+- [Weakly Supervised Semantic Point Cloud Segmentation: Towards 10x Fewer Labels.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Weakly_Supervised_Semantic_Point_Cloud_Segmentation_Towards_10x_Fewer_Labels_CVPR_2020_paper.pdf)  ` segmention ` 
+  - [[Code](https://github.com/alex-xun-xu/WeakSupPointCloudSeg)]
+
 - [Neural Implicit Embedding for Point Cloud Analysis.](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fujiwara_Neural_Implicit_Embedding_for_Point_Cloud_Analysis_CVPR_2020_paper.pdf)  ` segmention ` ` classification `
   - [[Code](https://github.com/kentfuji/NeuralEmbedding)]
 
