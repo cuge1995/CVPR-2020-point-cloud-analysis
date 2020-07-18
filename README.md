@@ -37,6 +37,10 @@ CVPR 2020 papers focusing on point cloud analysis
 
 - [Geometry and Learning Co-supported Normal Estimation for UnstructuredPoint Cloud.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Geometry_and_Learning_Co-Supported_Normal_Estimation_for_Unstructured_Point_Cloud_CVPR_2020_paper.pdf)  ` normal estimation ` 
 
+- [LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of
+Point Cloud-based Deep Networks.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_LG-GAN_Label_Guided_Adversarial_Network_for_Flexible_Targeted_Attack_of_CVPR_2020_paper.pdf)  ` attack ` 
+  - [[Code](https://github.com/RyanHangZhou/LG-GAN)]
+
 - [Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image](https://arxiv.org/abs/2002.12212)
   
 - [In Perfect Shape: Certifiably Optimal 3D Shape Reconstruction from 2D Landmarks](https://arxiv.org/pdf/1911.11924.pdf)
