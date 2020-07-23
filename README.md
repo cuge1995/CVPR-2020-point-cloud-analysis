@@ -89,5 +89,7 @@ Point Cloud-based Deep Networks.](http://openaccess.thecvf.com/content_CVPR_2020
 - [PointPainting: Sequential Fusion for 3D Object Detection](https://arxiv.org/abs/1911.10150)  ` detection `
   - [[Code](https://github.com/rshilliday/painting)]
 
+- [Point Cloud Completion by Skip-attention Network with Hierarchical Folding](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wen_Point_Cloud_Completion_by_Skip-Attention_Network_With_Hierarchical_Folding_CVPR_2020_paper.pdf)  ` completion `
+
 - [SegGCN: Efficient 3D Point Cloud Segmentation With Fuzzy Spherical Kernel](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lei_SegGCN_Efficient_3D_Point_Cloud_Segmentation_With_Fuzzy_Spherical_Kernel_CVPR_2020_paper.pdf)  ` segmentation `
   - [[Code](https://github.com/hlei-ziyan/SegGCN)]
