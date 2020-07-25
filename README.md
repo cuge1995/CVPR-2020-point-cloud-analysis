@@ -41,6 +41,9 @@ CVPR 2020 papers focusing on point cloud analysis
 Point Cloud-based Deep Networks.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_LG-GAN_Label_Guided_Adversarial_Network_for_Flexible_Targeted_Attack_of_CVPR_2020_paper.pdf)  ` attack ` 
   - [[Code](https://github.com/RyanHangZhou/LG-GAN)]
 
+- [On Isometry Robustness of Deep 3D Point Cloud Models Under Adversarial Attacks.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_On_Isometry_Robustness_of_Deep_3D_Point_Cloud_Models_Under_CVPR_2020_paper.pdf)  ` attack ` 
+  - [[Code](https://github.com/skywalker6174/3d-isometry-robust)]
+
 - [Convolution in the Cloud: Learning Deformable Kernels in 3D Graph Convolution Networks for Point Cloud Analysis.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Convolution_in_the_Cloud_Learning_Deformable_Kernels_in_3D_Graph_CVPR_2020_paper.pdf)  ` classification ` ` segmentation ` 
   - [[Code](https://github.com/j1a0m0e4sNTU/3dgcn)]
 
