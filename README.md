@@ -60,7 +60,8 @@ Point Cloud-based Deep Networks.](http://openaccess.thecvf.com/content_CVPR_2020
 - [LiDAR-based Online 3D Video Object Detection with Graph-based Message Passing and Spatiotemporal Transformer Attention](https://arxiv.org/pdf/2004.01389.pdf)
   - [[Code](https://github.com/yinjunbo/3DVID)]
 
-- [RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds](https://arxiv.org/abs/1911.11236)
+- [RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds](https://arxiv.org/abs/1911.11236)  ` segmentation `
+  - [[Code](https://github.com/QingyongHu/RandLA-Net)]
   
 - [C-Flow: Conditional Generative Flow Models for Images and 3D Point Clouds](https://arxiv.org/abs/1912.07009)
 
