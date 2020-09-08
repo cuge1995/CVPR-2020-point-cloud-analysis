@@ -102,7 +102,7 @@ Point Cloud-based Deep Networks.](http://openaccess.thecvf.com/content_CVPR_2020
   - [[Code](https://github.com/hlei-ziyan/SegGCN)]
 
 
-- [PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling.](https://arxiv.org/pdf/2003.00492.pdf)  ` classification `
+- [PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling.](https://arxiv.org/pdf/2003.00492.pdf)  ` classification ` ` segmentation `
   - [[Code](https://github.com/yanx27/PointASNL)]
 
 
