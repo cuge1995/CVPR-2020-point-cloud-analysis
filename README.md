@@ -101,5 +101,10 @@ Point Cloud-based Deep Networks.](http://openaccess.thecvf.com/content_CVPR_2020
 - [SegGCN: Efficient 3D Point Cloud Segmentation With Fuzzy Spherical Kernel](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lei_SegGCN_Efficient_3D_Point_Cloud_Segmentation_With_Fuzzy_Spherical_Kernel_CVPR_2020_paper.pdf)  ` segmentation `
   - [[Code](https://github.com/hlei-ziyan/SegGCN)]
 
+
+- [PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling.](https://arxiv.org/pdf/2003.00492.pdf)  ` classification `
+  - [[Code](https://github.com/yanx27/PointASNL)]
+
+
 - [PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation.](https://arxiv.org/pdf/2003.14032.pdf)  ` segmentation `
   - [[Code](https://github.com/edwardzhou130/PolarSeg)]
