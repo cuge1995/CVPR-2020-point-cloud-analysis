@@ -104,6 +104,9 @@ Point Cloud-based Deep Networks.](http://openaccess.thecvf.com/content_CVPR_2020
 - [PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation.](https://arxiv.org/pdf/2003.14032.pdf)  ` segmentation `
   - [[Code](https://github.com/edwardzhou130/PolarSeg)]
 
+- [Grid-GCN for Fast and Scalable Point Cloud Learning.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Grid-GCN_for_Fast_and_Scalable_Point_Cloud_Learning_CVPR_2020_paper.pdf)  ` learning `
+  - [[Code](https://github.com/Xharlie/Grid-GCN)]
+
 - [SampleNet: Differentiable Point Cloud Sampling.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lang_SampleNet_Differentiable_Point_Cloud_Sampling_CVPR_2020_paper.pdf)  ` sampling `
   - [[Code](https://github.com/itailang/SampleNet)]
 
