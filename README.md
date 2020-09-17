@@ -107,7 +107,7 @@ Point Cloud-based Deep Networks.](http://openaccess.thecvf.com/content_CVPR_2020
 - [Grid-GCN for Fast and Scalable Point Cloud Learning.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Grid-GCN_for_Fast_and_Scalable_Point_Cloud_Learning_CVPR_2020_paper.pdf)  ` learning `
   - [[Code](https://github.com/Xharlie/Grid-GCN)]
 
-- [End-to-End Learning Local Multi-View Descriptors for 3D Point Clouds.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_End-to-End_Learning_Local_Multi-View_Descriptors_for_3D_Point_Clouds_CVPR_2020_paper.pdf)  ` Description `
+- [End-to-End Learning Local Multi-View Descriptors for 3D Point Clouds.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_End-to-End_Learning_Local_Multi-View_Descriptors_for_3D_Point_Clouds_CVPR_2020_paper.pdf)  ` Registration `
   - [[Code](https://github.com/craigleili/3DLocalMultiViewDesc)]
 
 - [SampleNet: Differentiable Point Cloud Sampling.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lang_SampleNet_Differentiable_Point_Cloud_Sampling_CVPR_2020_paper.pdf)  ` sampling `
