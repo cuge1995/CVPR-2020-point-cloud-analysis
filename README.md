@@ -110,6 +110,9 @@ Point Cloud-based Deep Networks.](http://openaccess.thecvf.com/content_CVPR_2020
 - [End-to-End Learning Local Multi-View Descriptors for 3D Point Clouds.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_End-to-End_Learning_Local_Multi-View_Descriptors_for_3D_Point_Clouds_CVPR_2020_paper.pdf)  ` Registration `
   - [[Code](https://github.com/craigleili/3DLocalMultiViewDesc)]
 
+- [On Isometry Robustness of Deep 3D Point Cloud Models Under Adversarial Attacks.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_On_Isometry_Robustness_of_Deep_3D_Point_Cloud_Models_Under_CVPR_2020_paper.pdf)  ` attack `
+  - [[Code](https://github.com/skywalker6174/3d-isometry-robust)]
+
 - [SampleNet: Differentiable Point Cloud Sampling.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lang_SampleNet_Differentiable_Point_Cloud_Sampling_CVPR_2020_paper.pdf)  ` sampling `
   - [[Code](https://github.com/itailang/SampleNet)]
 
