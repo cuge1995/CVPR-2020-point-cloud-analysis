@@ -74,6 +74,7 @@ Point Cloud-based Deep Networks.](http://openaccess.thecvf.com/content_CVPR_2020
   - [[Code](https://github.com/Jia-Research-Lab/PointGroup)]
   
 - [Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion](https://arxiv.org/abs/2003.01456)
+  - [[Code](https://github.com/RaminHasibi/SA_Net)]
 
 - [Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences](http://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Feature-Metric_Registration_A_Fast_Semi-Supervised_Approach_for_Robust_Point_Cloud_CVPR_2020_paper.pdf)
   - [[Code](https://github.com/XiaoshuiHuang/fmr)]
