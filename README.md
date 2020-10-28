@@ -25,7 +25,7 @@ CVPR 2020 papers focusing on point cloud analysis
 - [OctSqueeze: Octree-Structured Entropy Model for LiDAR Compression.](https://arxiv.org/abs/2005.07178)  ` compression ` ` oral `
 
 - [PF-Net: Point Fractal Network for 3D Point Cloud Completion](https://arxiv.org/abs/2003.00410)
-  - [[Code](https://github.com/xiaogangw/cascaded-point-completion)]
+  - [[Code](https://github.com/zztianzz/PF-Net-Point-Fractal-Network)]
 
 - [End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection](https://arxiv.org/abs/2004.03080)
   - [[Code](https://github.com/mileyan/pseudo-LiDAR_e2e/tree/master/PIXOR)]
