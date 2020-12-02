@@ -82,7 +82,7 @@ Point Cloud-based Deep Networks.](http://openaccess.thecvf.com/content_CVPR_2020
 - [From Image Collections to Point Clouds with Self-supervised Shape and Pose Networks](http://openaccess.thecvf.com/content_CVPR_2020/papers/Navaneet_From_Image_Collections_to_Point_Clouds_With_Self-Supervised_Shape_and_CVPR_2020_paper.pdf)
   - [[Code](https://github.com/klnavaneet/ssl_3d_recon)]
 
-- [Associate-3Ddet: Perceptual-to-Conceptual association for 3D Point Cloud Object Detection](http://openaccess.thecvf.com/content_CVPR_2020/papers/Du_Associate-3Ddet_Perceptual-to-Conceptual_Association_for_3D_Point_Cloud_Object_Detection_CVPR_2020_paper.pdf)
+- [Associate-3Ddet: Perceptual-to-Conceptual association for 3D Point Cloud Object Detection](http://openaccess.thecvf.com/content_CVPR_2020/papers/Du_Associate-3Ddet_Perceptual-to-Conceptual_Association_for_3D_Point_Cloud_Object_Detection_CVPR_2020_paper.pdf) ` detection `
   - [[Code](https://github.com/dleam/Associate-3Ddet)]
  
 - [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://arxiv.org/pdf/2003.01251.pdf)  ` detection `
