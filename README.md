@@ -119,3 +119,6 @@ Point Cloud-based Deep Networks.](http://openaccess.thecvf.com/content_CVPR_2020
 
 - [SegGCN: Efficient 3D Point Cloud Segmentation With Fuzzy Spherical Kernel.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lei_SegGCN_Efficient_3D_Point_Cloud_Segmentation_With_Fuzzy_Spherical_Kernel_CVPR_2020_paper.pdf)  ` segmentation `
   - [[Code](https://github.com/hlei-ziyan/SegGCN)]
+
+- [P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds.](https://arxiv.org/abs/2005.13888)  ` Tracking `   `Oral`
+  - [[Code](https://github.com/HaozheQi/P2B)]
